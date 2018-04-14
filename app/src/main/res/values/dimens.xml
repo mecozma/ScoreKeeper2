@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSize">16sp</dimen>
+    <dimen name="marginTop">16dp</dimen>
+    <dimen name="marginBottom">16dp</dimen>
+    <dimen name="scoreTextSize">60sp</dimen>
+    <dimen name="scoreMarginBottom">26dp</dimen>
+    <dimen name="buttonMarginLeft">26dp</dimen>
+    <dimen name="buttonMarginRight">26dp</dimen>
+    <dimen name="ButtonMArginBottom">12dp</dimen>
+    <dimen name="viewWidth">1dp</dimen>
+    <dimen name="teamLinearLayoutWidth">0dp</dimen>
+    <dimen name="resetMarginBottom">34dp</dimen>
+</resources>
