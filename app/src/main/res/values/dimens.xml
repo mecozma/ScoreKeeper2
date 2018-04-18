@@ -11,4 +11,5 @@
     <dimen name="viewWidth">1dp</dimen>
     <dimen name="teamLinearLayoutWidth">0dp</dimen>
     <dimen name="resetMarginBottom">34dp</dimen>
+    <dimen name="linearBottom">100dp</dimen>
 </resources>
